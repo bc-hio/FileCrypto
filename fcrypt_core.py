@@ -24,7 +24,7 @@ fcrypt_core.py —— FileCrypto 加解密核心引擎（纯标准库实现，�
     EOF_MARKER  (uint32 BE)    0xFFFFFFFE
     eof_tag                    16 字节，认证“总明文长度”，防止文件被截断
 
-作者：bc_hio     许可：MIT
+作者：bc-hio     许可：MIT
 """
 
 from __future__ import annotations

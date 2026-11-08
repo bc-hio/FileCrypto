@@ -77,4 +77,4 @@ py -3 fcrypt_core.py selftest          # 运行内置回归测试
 
 本项目采用 **MIT 许可证**，详见 [LICENSE](LICENSE)。
 
-Copyright (c) 2026 bc_hio
+Copyright (c) 2026 bc-hio
