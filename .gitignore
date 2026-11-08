@@ -1,0 +1,14 @@
+# PyInstaller 运行时目录：以 _internal.zip 形式随仓库发布，不逐文件跟踪
+_internal/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 工具运行产物
+*.part
+*.log
+.filecrypto/
